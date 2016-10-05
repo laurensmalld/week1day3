@@ -9,16 +9,9 @@ function countLetters(sentence) {
     results[nextLetter]++
   } else { results[nextLetter]++
   }
-
 // if letter not present add it to results
 // if letter is present add 1 to the result number for it
-
-
-
-   console.log(nextLetter);
  }
-
-
  return results;
 }
 
